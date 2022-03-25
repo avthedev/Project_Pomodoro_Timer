@@ -10,7 +10,7 @@ This project helped me learn and apply my knowledge of rendering and state manag
 
 Built with
 
-- Javascript
+- JavaScript
 - HTML
 - CSS
 - React/React Hooks
