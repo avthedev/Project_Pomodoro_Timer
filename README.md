@@ -33,11 +33,11 @@ If you have trouble getting the server to run, feel free to reach out to me!
 
 ## Demo
 
-![](./ss/pomodoro.gif)
+![](./gif/pomodoro.gif)
 
 ## Screenshot
 
-![](./ss/pomss.png)
+![](./gif/pomss.png)
 
 ## Contributing
 
