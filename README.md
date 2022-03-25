@@ -33,7 +33,7 @@ If you have trouble getting the server to run, feel free to reach out to me!
 
 ## Demo
 
-![](./gif/pomodoro.gif)
+![](./gif/pom-gifs.gif)
 
 ## Screenshot
 
